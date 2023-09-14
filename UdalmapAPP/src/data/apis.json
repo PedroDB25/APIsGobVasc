@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Euskalmet",
+        "requiereKey": true,
+        "descripcion": "El API de datos meteorológicos proporciona acceso a los datos publicados por Euskalmet, la Agencia Vasca de Meteorología. A diferencia del resto de APIs, en éste se requiere un registro gratuito para poder hacer uso del mismo.",
+        "link": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/",
+        "tieneBack": true
+    },
+    {
+        "nombre": "indicadores municipales",
+        "requiereKey": false,
+        "descripcion": "El API de Udalmap proporciona acceso a más de 200 indicadores de información municipal, cuya finalidad es mostrar con detalle la realidad en los municipios de la Comunidad Autónoma de Euskadi sobre áreas como economía y competitividad, cohesión social, calidad de vida, medio ambiente y movilidad",
+        "link": "https://opendata.euskadi.eus/webopd00-apiudalmap/es/?api=udalmap",
+        "tieneBack": true
+    },
+    {
+        "nombre": "Eventos culturales",
+        "requiereKey": false,
+        "descripcion": "El API de eventos culturales proporciona acceso a los datos sobre eventos culturales publicados por Kulturklik. La fuente de información de estos eventos culturales proviene del Gobierno Vasco, las tres diputaciones forales y los ayuntamientos de las tres capitales de la Comunidad Autónoma de Euskadi.",
+        "link": "https://opendata.euskadi.eus/api-culture/?api=culture_events",
+        "tieneBack": true
+    },
+    {
+        "nombre": "personas, entidades y equipamientos",
+        "requiereKey": false,
+        "descripcion": "El API de Directorio proporciona acceso a los datos de contacto de personas (cargos públicos), entidades (estructura del Gobierno Vasco y entidades dependientes) y equipamientos públicos. Progresivamente se irán incorporando más datos de entidades tanto públicas como privadas (centros de salud, asociaciones, fundaciones, etc.).",
+        "link": "https://opendata.euskadi.eus/webopd00-apidirectory/es/?api=directory",
+        "tieneBack": true
+    },
+    {
+        "nombre": "certificados de eficiencia energética",
+        "requiereKey": false,
+        "descripcion": "El API de certificados de eficiencia energética proporciona acceso a los datos publicados en el Registro de Certificados de Eficiencia Energética de Euskadi. La fuente de información de estos datos proviene del área de Industria del Gobierno Vasco.",
+        "link": "https://opendata.euskadi.eus/api-energy-efficiency/?api=energy-efficiency",
+        "tieneBack": true
+    },
+    {
+        "nombre": "eventos administrativos",
+        "requiereKey": false,
+        "descripcion": "El API de eventos administrativos proporciona acceso a los datos sobre eventos vinculados a las administraciones públicas de Euskadi. Actualmente se ofrecen en este API los anuncios de contratos públicos de la Comunidad Autonoma de Euskadi y los premios, ayudas y subvenciones y anuncios del Gobierno Vasco y sus entidades dependientes.",
+        "link": "https://opendata.euskadi.eus/api-administration/?api=administration_events",
+        "tieneBack": true
+    },
+    {
+        "nombre": "tráfico",
+        "requiereKey": false,
+        "descripcion": "El API de tráfico proporciona acceso a los datos sobre la situación del tráfico de la Comunidad Autónoma de Euskadi. Se ofrecen datos sobre cámaras de tráfico, incidencias y densidad de tráfico del Gobierno Vasco, Diputaciones Forales y Ayuntamientos de las tres capitales de Euskadi. Estamos trabajando en incorporar al API más datos y de más fuentes públicas.",
+        "link": "https://opendata.euskadi.eus/api-traffic/?api=traffic",
+        "tieneBack": true
+    },
+    {
+        "nombre": "subvenciones concedidas",
+        "requiereKey": false,
+        "descripcion": "El API de subvenciones concedidas proporciona acceso a los datos sobre beneficiarios e importes de ayudas concedidas por las administraciones públicas de Euskadi (Gobierno Vasco, Diputaciones Forales y Ayuntamientos de las tres capitales de la CAE). Actualmente se ofrecen en este API los datos proporcionados por el buscador de subvenciones concedidas.",
+        "link": "https://opendata.euskadi.eus/api-granted-benefits/?api=granted-benefit/",
+        "tieneBack": true
+    }
+]

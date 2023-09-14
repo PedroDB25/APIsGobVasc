@@ -1,0 +1,11 @@
+.main-content {
+    min-height: 90vh;
+}
+
+.header {
+    min-height: 5vh;
+}
+
+.footer {
+    min-height: 5vh;
+}
